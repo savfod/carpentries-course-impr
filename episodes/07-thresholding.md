@@ -28,6 +28,7 @@ thresholding to an image.
 Thresholding is a type of *image segmentation*,
 where an image is split into different regions, or *segments*.
 These segments can then be analyzed separately.
+
 In thresholding, we convert an image from colour or grayscale into
 a *binary image*, i.e., one that is simply black and white.
 Most frequently,
