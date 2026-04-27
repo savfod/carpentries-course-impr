@@ -26,8 +26,8 @@ exercises: 50
 In this episode, we will learn how to use scikit-image functions to apply
 thresholding to an image.
 Thresholding is a type of *image segmentation*,
-which is the partitioning of an image into disjoint regions, or *segments*.
-The different segments can then be analyzed separately.
+where an image is split into different regions, or *segments*.
+These segments can then be analyzed separately.
 In thresholding, we convert an image from colour or grayscale into
 a *binary image*, i.e., one that is simply black and white.
 Most frequently,
